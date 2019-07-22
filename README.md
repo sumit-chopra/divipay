@@ -205,3 +205,5 @@ To create a valid token, following needs to be done:
 - Create controls as defined in MANDATORY_CONTROL settings
 - Retrieve the controls defined as specified in [View Controls API](#view-controls) section
 - Process a transaction by invoking [Dummy Transaction API](#process-transaction)
+
+Please note : DiviPay API Key has been removed from settings_local.py. Please add the value there to run the application.
